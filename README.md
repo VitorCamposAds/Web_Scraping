@@ -1,5 +1,5 @@
 # Web_Scraping
-#This script uses the Selenium, BeautifulSoup and other libraries to automate the process of searching and scrpping in google.
+#This script uses the Selenium, BeautifulSoup and other libraries to automate the process of searching and scraping in google.
 import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
